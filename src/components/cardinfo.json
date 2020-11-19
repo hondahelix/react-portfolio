@@ -14,6 +14,20 @@
         "deployedlink": "https://employmentbuddy.herokuapp.com/"
     },
     {
+        "title": "Pokemon Directory",
+        "image": "../assets/Pokemon-Directory.gif",
+        "description": "I made a directory using react to easily and quickly reference what type my favorite pokemon are. This application has a search bar and can also filter pokemon names alphabetically.",
+        "repolink": "https://github.com/hondahelix/pokemon-directory",
+        "deployedlink": "https://hondahelix.github.io/pokemon-directory/"
+    },
+    {
+        "title": "Memory game",
+        "image": "../assets/demo.gif",
+        "description": "This application tests your memory. You are presented with twelve unique cards; when you click on a card, it will keep track of it so that if you click on the same card twice, then it will notify you that you on the status of your game.",
+        "repolink": "https://hondahelix.github.io/memory-game/",
+        "deployedlink": "https://evening-plains-49855.herokuapp.com"
+    },
+    {
         "title": "Eat-Da-Burger",
         "image": "../assets/burger-image.PNG",
         "description": "A fun little application that lets you add a burger you want to eat and uses a database to save that it was eaten!!!",

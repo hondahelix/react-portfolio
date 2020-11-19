@@ -4,7 +4,7 @@ import Nav from "./components/Navbar";
 import Home from "./components/Home";
 //import WorkPage from ""
      //import Resume from "./components/Resume";
-//import Footer from "";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -16,6 +16,7 @@ function App() {
 
         </Switch>
         <br/>
+        <Footer/>
     </Router>
   );
 }

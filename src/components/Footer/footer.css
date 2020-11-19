@@ -1,0 +1,11 @@
+#social{
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 20px;
+}
+footer{
+    background-color: rgb(68, 163, 163) !important;
+}

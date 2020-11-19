@@ -1,0 +1,12 @@
+.container{
+    background-color: rgb(183, 223, 228);
+    margin-bottom: 30px;
+}
+#profile{
+    height: 150px;
+    width: 169px;
+}
+p{
+    font-size: 20px;
+    padding: 20px;
+}

@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Drink To The Weather",
+        "image": "../assets/project1ss.png",
+        "description": "This was my first project collaborating with other beginner developers. We wanted to create an app that suggests cocktails based on the weather or a mood. enjoy!!",
+        "repolink": "https://hondahelix.github.io/drink-to-the-weather/",
+        "deployedlink": "https://github.com/hondahelix/drink-to-the-weather"
+    },
+    {
+        "title": "Emplyoyment Buddy",
+        "image": "../assets/newCard.gif",
+        "description": " Employment Buddy is an application that lets you keep track of where you have applied to by dynamically screating and saving where you are in the hiring process. This is done by letting users create an account and saving that information in a database.",
+        "repolink": "https://github.com/hondahelix/employment-buddy",
+        "deployedlink": "https://employmentbuddy.herokuapp.com/"
+    },
+    {
+        "title": "Eat-Da-Burger",
+        "image": "../assets/burger-image.PNG",
+        "description": "A fun little application that lets you add a burger you want to eat and uses a database to save that it was eaten!!!",
+        "repolink": "https://github.com/hondahelix/burger",
+        "deployedlink": "https://evening-plains-49855.herokuapp.com"
+    },
+    {
+        "title": "Code Quiz",
+        "image": "../assets/codeQuiz.PNG",
+        "description": "A time code quiz that gets your score and saves it to your local storage as a high score.",
+        "repolink": "https://github.com/hondahelix/code_quiz",
+        "deployedlink": "https://hondahelix.github.io/code_quiz/"
+    }
+]

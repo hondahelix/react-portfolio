@@ -9,7 +9,7 @@ function Navbar (){
             <ul id="nav-mobile" className="navbar">
                 <li><a href="/"><i className = "material-icons">home</i></a></li>
                 <li><a href="/work"> <i className = "material-icons">folder_open</i></a></li>
-                <li><a href="/resume"><i  className = "material-icons large">insert_drive_file</i></a></li>
+                <li><a href="./Honda-Resume.pdf"><i  className = "material-icons large">insert_drive_file</i></a></li>
             </ul>
             </div>
         </nav>

@@ -4,12 +4,12 @@ import "./work.css";
 function Work (){
     return(
     <div className = "container ">
-        <div class="row">
-        {projects.map(card =>
-            <div className="col s6">
+        <div className="row">
+        {projects.map((card, index) =>
+            <div key ={index} className="col s6">
             <div className="card">
                 <div className="card-image">
-                <img src={card.image} alt = {card.title}/>
+                <img src={(process.env.PUBLIC_URL || "/") + card.image} alt = {card.title}/>
                 <span id = "title" className="card-title">{card.title}</span>
                 </div>
                 <div className="card-content">

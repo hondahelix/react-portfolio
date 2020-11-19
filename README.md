@@ -1,6 +1,6 @@
 # react-portfolio
 
-[deployed portfolio](https://nameless-castle-45341.herokuapp.com)
+[Deployed Portfolio](https://hondahelix.github.io/react-portfolio/)
 
 I created a portfolio using react and materialize that dynamically creates cards that render on my portfolio page. These cards are an example of the work that I have accomplished. 
 
@@ -29,6 +29,7 @@ The installation for this project is to go my github repositories then navigate 
 
 
 ## Credits
+
 Third party assets and instruction was provided by the University of California, Berkeley Full Stack Coding Bootcamp program. As well as resources utilized from and Materialize.
 
 [UCB Coding Bootcamp](https://bootcamp.berkeley.edu/coding/)

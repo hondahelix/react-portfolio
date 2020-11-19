@@ -1,42 +1,42 @@
 [
     {
         "title": "Drink To The Weather",
-        "image": "../assets/project1ss.png",
+        "image": "/assets/project1ss.png",
         "description": "This was my first project collaborating with other beginner developers. We wanted to create an app that suggests cocktails based on the weather or a mood. enjoy!!",
-        "repolink": "https://hondahelix.github.io/drink-to-the-weather/",
-        "deployedlink": "https://github.com/hondahelix/drink-to-the-weather"
+        "repolink": "https://github.com/hondahelix/drink-to-the-weather",
+        "deployedlink": "https://hondahelix.github.io/drink-to-the-weather/"
     },
     {
         "title": "Emplyoyment Buddy",
-        "image": "../assets/newCard.gif",
+        "image": "/assets/newCard.gif",
         "description": " Employment Buddy is an application that lets you keep track of where you have applied to by dynamically screating and saving where you are in the hiring process. This is done by letting users create an account and saving that information in a database.",
         "repolink": "https://github.com/hondahelix/employment-buddy",
         "deployedlink": "https://employmentbuddy.herokuapp.com/"
     },
     {
         "title": "Pokemon Directory",
-        "image": "../assets/Pokemon-Directory.gif",
+        "image": "/assets/Pokemon-Directory.gif",
         "description": "I made a directory using react to easily and quickly reference what type my favorite pokemon are. This application has a search bar and can also filter pokemon names alphabetically.",
         "repolink": "https://github.com/hondahelix/pokemon-directory",
         "deployedlink": "https://hondahelix.github.io/pokemon-directory/"
     },
     {
         "title": "Memory game",
-        "image": "../assets/demo.gif",
+        "image": "/assets/demo.gif",
         "description": "This application tests your memory. You are presented with twelve unique cards; when you click on a card, it will keep track of it so that if you click on the same card twice, then it will notify you that you on the status of your game.",
-        "repolink": "https://hondahelix.github.io/memory-game/",
-        "deployedlink": "https://evening-plains-49855.herokuapp.com"
+        "repolink": "https://github.com/hondahelix/memory-game",
+        "deployedlink": "https://hondahelix.github.io/memory-game/"
     },
     {
         "title": "Eat-Da-Burger",
-        "image": "../assets/burger-image.PNG",
+        "image": "/assets/burger-image.PNG",
         "description": "A fun little application that lets you add a burger you want to eat and uses a database to save that it was eaten!!!",
         "repolink": "https://github.com/hondahelix/burger",
         "deployedlink": "https://evening-plains-49855.herokuapp.com"
     },
     {
         "title": "Code Quiz",
-        "image": "../assets/codeQuiz.PNG",
+        "image": "/assets/codeQuiz.PNG",
         "description": "A time code quiz that gets your score and saves it to your local storage as a high score.",
         "repolink": "https://github.com/hondahelix/code_quiz",
         "deployedlink": "https://hondahelix.github.io/code_quiz/"

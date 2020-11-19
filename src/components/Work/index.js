@@ -7,7 +7,7 @@ function Work (){
         <div class="row">
         {projects.map(card =>
             <div className="col s6">
-            <div className="card" style={{ }}>
+            <div className="card">
                 <div className="card-image">
                 <img src={card.image} alt = {card.title}/>
                 <span id = "title" className="card-title">{card.title}</span>

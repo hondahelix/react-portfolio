@@ -9,6 +9,7 @@ function Home (){
                 <img id = "profile" src={profile} className= "responsive-img circle" alt="Me"/>
                 </div>
                 <div>
+                    <h3 className="center-align" >Jonathan Honda</h3>
                     <p>
                         Hello, world! My name is Jonathan Honda, and I am taking a coding Bootcamp at the University of California, Berkeley. 
                         I am originally from San Diego, California, and I have graduated this year from the University of California, Irvine, with a BA in Criminology Law and Society. 
@@ -18,6 +19,8 @@ function Home (){
 
                     </p>
                 </div>
+                <b></b>
+                <a id = "email" href="mailto: hondahelix120@gmail.com">Email: hondahelix120@gmail.com</a>
             <br></br>
         </div>
     )

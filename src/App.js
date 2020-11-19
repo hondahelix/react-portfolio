@@ -1,6 +1,6 @@
 import React from "react";
-// import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-// import Nav from "./components/Navbar";
+//import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import Nav from "./components/Navbar";
 // import Home from "./components/Home";
 //import WorkPage from ""
      //import Resume from "./components/Resume";
@@ -8,7 +8,7 @@ import React from "react";
 
 function App() {
   return (
-    <p>hello world</p>
+    <Nav/>
   );
 }
 

@@ -10,9 +10,9 @@ function Work (){
             <div className="card">
                 <div className="card-image">
                 <img src={(process.env.PUBLIC_URL || "/") + card.image} alt = {card.title}/>
-                <span id = "title" className="card-title">{card.title}</span>
                 </div>
                 <div className="card-content">
+                <span id = "title" className="card-title">{card.title}</span>
                     <p>
                         {card.description}
                     </p>

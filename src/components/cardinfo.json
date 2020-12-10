@@ -1,17 +1,31 @@
 [
     {
-        "title": "Drink To The Weather",
-        "image": "/assets/project1ss.png",
-        "description": "This was my first project collaborating with other beginner developers. We wanted to create an app that suggests cocktails based on the weather or a mood. enjoy!!",
-        "repolink": "https://github.com/hondahelix/drink-to-the-weather",
-        "deployedlink": "https://hondahelix.github.io/drink-to-the-weather/"
+        "title": "Travel Pins",
+        "image": "/assets/travelPins.gif",
+        "description": "A social media app that will inspire people to travel the world.",
+        "repolink": "https://github.com/anusontarangkul/travel-pins",
+        "deployedlink": "https://travel-pins.herokuapp.com/"
     },
     {
         "title": "Emplyoyment Buddy",
         "image": "/assets/newCard.gif",
-        "description": " Employment Buddy is an application that lets you keep track of where you have applied to by dynamically screating and saving where you are in the hiring process. This is done by letting users create an account and saving that information in a database.",
+        "description": " Employment Buddy is an application that lets you keep track of where you have applied.",
         "repolink": "https://github.com/hondahelix/employment-buddy",
         "deployedlink": "https://employmentbuddy.herokuapp.com/"
+    },
+    {
+        "title": "Drink To The Weather",
+        "image": "/assets/project1ss.png",
+        "description": "Website that suggests cocktails based on the weather or a mood. enjoy!!",
+        "repolink": "https://github.com/hondahelix/drink-to-the-weather",
+        "deployedlink": "https://hondahelix.github.io/drink-to-the-weather/"
+    },
+    {
+        "title": "Google Book Search",
+        "image": "/assets/googleBook.gif",
+        "description": "A MERN website that allows users to search and save books",
+        "repolink": "https://github.com/anusontarangkul/google-book-search",
+        "deployedlink": "https://salty-chamber-90587.herokuapp.com/"
     },
     {
         "title": "Pokemon Directory",
@@ -26,19 +40,5 @@
         "description": "This application tests your memory. You are presented with twelve unique cards; when you click on a card, it will keep track of it so that if you click on the same card twice, then it will notify you that you on the status of your game.",
         "repolink": "https://github.com/hondahelix/memory-game",
         "deployedlink": "https://hondahelix.github.io/memory-game/"
-    },
-    {
-        "title": "Eat-Da-Burger",
-        "image": "/assets/burger-image.PNG",
-        "description": "A fun little application that lets you add a burger you want to eat and uses a database to save that it was eaten!!!",
-        "repolink": "https://github.com/hondahelix/burger",
-        "deployedlink": "https://evening-plains-49855.herokuapp.com"
-    },
-    {
-        "title": "Code Quiz",
-        "image": "/assets/codeQuiz.PNG",
-        "description": "A time code quiz that gets your score and saves it to your local storage as a high score.",
-        "repolink": "https://github.com/hondahelix/code_quiz",
-        "deployedlink": "https://hondahelix.github.io/code_quiz/"
     }
 ]

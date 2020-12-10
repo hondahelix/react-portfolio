@@ -8,9 +8,16 @@
     height: 150px;
     width: 169px;
 }
+#aboutMe{
+    padding: 10px;
+    box-shadow: 10px 15px rgb(165, 191, 196);
+}
+
 p{
     font-size: 20px;
-    padding: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    pading-top: 10px;
 }
 #email{
     font-size: large;

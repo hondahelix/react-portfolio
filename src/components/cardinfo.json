@@ -7,6 +7,13 @@
         "deployedlink": "https://travel-pins.herokuapp.com/"
     },
     {
+        "title": "Google Book Search",
+        "image": "/assets/googleBook.gif",
+        "description": "A MERN app that allows users to search and save books",
+        "repolink": "https://github.com/anusontarangkul/google-book-search",
+        "deployedlink": "https://salty-chamber-90587.herokuapp.com/"
+    },
+    {
         "title": "Emplyoyment Buddy",
         "image": "/assets/newCard.gif",
         "description": " Employment Buddy is an application that lets you keep track of where you have applied.",
@@ -19,13 +26,6 @@
         "description": "Website that suggests cocktails based on the weather or a mood. enjoy!!",
         "repolink": "https://github.com/hondahelix/drink-to-the-weather",
         "deployedlink": "https://hondahelix.github.io/drink-to-the-weather/"
-    },
-    {
-        "title": "Google Book Search",
-        "image": "/assets/googleBook.gif",
-        "description": "A MERN website that allows users to search and save books",
-        "repolink": "https://github.com/anusontarangkul/google-book-search",
-        "deployedlink": "https://salty-chamber-90587.herokuapp.com/"
     },
     {
         "title": "Pokemon Directory",

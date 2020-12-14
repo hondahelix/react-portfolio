@@ -6,7 +6,7 @@ function Work (){
     <div className = "container ">
         <div className="row">
         {projects.map((card, index) =>
-            <div key ={index} className="col s6">
+            <div key ={index} className="col s12 m6 l6">
             <div className="card">
                 <div className="card-image">
                 <img src={(process.env.PUBLIC_URL || "/") + card.image} alt = {card.title}/>

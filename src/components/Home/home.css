@@ -3,15 +3,14 @@
     margin-bottom: 30px;
     position: relative;
     min-height: 100vh;
+    padding: 10px;
+    box-shadow: 10px 15px rgb(165, 191, 196);
 }
 #profile{
     height: 150px;
     width: 169px;
 }
-#aboutMe{
-    padding: 10px;
-    box-shadow: 10px 15px rgb(165, 191, 196);
-}
+
 
 p{
     font-size: 20px;

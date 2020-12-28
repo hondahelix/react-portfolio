@@ -24,7 +24,7 @@ function Home (){
                     </p>
                     <p>
                         Another exciting thing about me is that I was in the ROTC program all four years in college and have commissioned as a second lieutenant in the Army National Guard.
-                         On the weekends, I serve as a Network Officer at the Division Signal Company at Joint Forces Training Base in Los Alamitos.
+                         On the weekends, I serve as a Network Officer at the Division Signal Company at Joint Forces Training Base in Los Alamitos. 
                     </p>
                 </div>
                 <b></b>

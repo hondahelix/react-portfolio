@@ -10,8 +10,6 @@
     height: 150px;
     width: 169px;
 }
-
-
 p{
     font-size: 20px;
     padding-left: 20px;
@@ -20,5 +18,4 @@ p{
 }
 #email{
     font-size: large;
-    margin-left: 20px;
 }

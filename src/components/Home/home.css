@@ -19,3 +19,18 @@ p{
 #email{
     font-size: large;
 }
+.skills{
+    background-color: rgb(36, 196, 196);
+    position: relative;
+    height: 110vh;
+}
+.education{
+    background-color: white;
+    position: relative;
+    height: 110vh;
+}
+.army{
+    background-color:rgb(36, 196, 196);
+    position: relative;
+    height: 110vh;
+}

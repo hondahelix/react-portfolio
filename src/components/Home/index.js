@@ -3,6 +3,7 @@ import "./home.css";
 
 function Home (){
     return (
+        <>
         <div className = "container">
             <div id = "aboutMe">
                 <div className="center-align">
@@ -31,6 +32,16 @@ function Home (){
                 <br></br>
             </div>
         </div>
+        <div className = "skills">
+
+        </div>
+        <div className = "education">
+
+        </div>
+        <div className = "army">
+
+        </div>
+        </>
     )
 
 

@@ -14,7 +14,6 @@ function App() {
             <Route exact path= {(process.env.PUBLIC_URL || "/")+"/"} component={Home} />
             <Route exact path= {(process.env.PUBLIC_URL || "/")+"/work"} component={WorkPage} />
         </Switch>
-        <br/>
         <Footer/>
     </Router>
   );

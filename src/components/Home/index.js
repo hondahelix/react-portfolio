@@ -66,26 +66,23 @@ function Home (){
                     <h5 className ="skill-title">
                         Algorithms
                     </h5>
-                    <ul>
-                        <li><img className="badge" src= {badge} alt="hackerrank badge"></img></li>
-                        <li><a className="link" href="https://www.hackerrank.com/hondahelix120">HackerRank</a></li>
-                    </ul>
+                        <img className="badge" src= {badge} alt="hackerrank badge"></img>
+                        <a  className="links" href="https://www.hackerrank.com/hondahelix120">HackerRank</a>
                 </div>
                 <div data-aos="flip-left" className = "strenghts col s3 skills-box">
                     <h5 className ="skill-title">
                         Strengths
                     </h5>
-                    <ul>
-                        <li>Restorative</li>
-                        <li>Achiever</li>
-                        <li>Focus</li>
-                        <li><a href="https://drive.google.com/file/d/1CNmvzCfLJz-SCRADdy5BRsKNhmvOhAkI/view?usp=sharing">Gallup Strength Finder</a></li>
-                    </ul>
+                        <p className="topThreeSoftSkills">Restorative</p>
+                        <p className="topThreeSoftSkills">Achiever</p>
+                        <p className="topThreeSoftSkills">Focus</p>
+                        <a href="https://drive.google.com/file/d/1CNmvzCfLJz-SCRADdy5BRsKNhmvOhAkI/view?usp=sharing">Gallup Strength Finder</a>
                 </div>
             </div>         
         </div>
         <div data-aos="flip-up" className = "education">
             <h2 className="education-title">Education</h2>
+            <br></br>
             <div className="row">
                 <div data-aos = "slide-right" className="col s6 school">
                     <img className="school-image"src={uci} alt="UCI"></img>
@@ -98,7 +95,8 @@ function Home (){
              </div>
         </div>
         <div className = "army">
-            <div data-aos="slide-up"className="army-photos">
+            <h3 className="leadership center-align">Leadership Opportunities</h3>
+            <div data-aos="fade" className="army-photos">
                 <Carousel>
                         <div>
                             <img className = "image1" src={image1} alt="Advanced Camp - KY"/>
@@ -118,7 +116,6 @@ function Home (){
                         </div>
                     </Carousel>
             </div>
-            <h3 className="leadership center-align">Leadership Opportunities</h3>
         </div>
         </>
     )

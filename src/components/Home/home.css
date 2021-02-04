@@ -11,7 +11,7 @@
     width: 169px;
 }
 p{
-    font-size: 15px;
+    font-size: 20px;
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 10px;
@@ -71,6 +71,24 @@ p{
     text-align: center;
     position: relative;
     top:10%;
+}
+.school{
+    height: 80vh;
+    position: relative;
+    top: 15%;
+}
+.school-image{
+    height: 25%;
+    width: 25%;
+    position: relative;
+    top:20%;
+    left:33%;
+
+}
+.degree{
+    position: relative;
+    top:30%;
+    text-align: center;
 }
 .army{
     background-color:rgb(36, 196, 196);

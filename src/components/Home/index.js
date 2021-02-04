@@ -10,6 +10,8 @@ import image2 from "./A96476BF-C7DA-4374-AD9D-020B596A0A0E.JPEG";
 import image3 from "./IMG_1510.jpg";
 import image4 from "./IMG_1619.jpg";
 import badge from "./badge.png";
+import uci from "./UCI.png";
+import ucb from "./UCB.png";
 
 
 function Home (){
@@ -82,9 +84,18 @@ function Home (){
                 </div>
             </div>         
         </div>
-        <div className = "education">
+        <div data-aos="flip-up" className = "education">
             <h2 className="education-title">Education</h2>
-
+            <div className="row">
+                <div data-aos = "slide-right" className="col s6 school">
+                    <img className="school-image"src={uci} alt="UCI"></img>
+                    <h5 className="degree">Bachelor of Arts in Criminology, Law, and Society</h5>
+                </div>
+                <div data-aos = "slide-left" className="col s6 school">
+                    <img className="school-image" src={ucb} alt="UCB"></img>
+                    <h5 className="degree">Full-Stack Web Development Certificate</h5>
+                </div>
+             </div>
         </div>
         <div className = "army">
             <div data-aos="slide-up"className="army-photos">

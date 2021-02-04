@@ -55,7 +55,7 @@ function Home (){
             <div className = "skillls-container row">
                 <div className="col s1"></div>
                 <div data-aos="flip-right" className = "coding-languages col s3 skills-box">
-                    <h5 className ="skill-title">
+                    <h5 className ="skill-title" >
                         Coding skills
                     </h5>
                     <p className = "coding-skills">

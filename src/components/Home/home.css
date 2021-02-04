@@ -11,26 +11,84 @@
     width: 169px;
 }
 p{
-    font-size: 20px;
+    font-size: 15px;
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 10px;
 }
 #email{
     font-size: large;
+    margin-left: 35%;
 }
 .skills{
     background-color: rgb(36, 196, 196);
     position: relative;
-    height: 110vh;
+    height: 100vh;
+}
+.skillls-container{
+    position: relative;
+    left:1%;
+    margin: 10%;
+    height: 100%;
+    text-align: center
+}
+.skills-box{
+    position: relative;
+    background-color: white;
+    width: 50px;
+    height: 50%;
+    margin: 1%;
+    top:10%;
+    left:10%
+
+}
+.skill-title{
+    font-size: 3vmin;
+    font-style: bold;
+}
+.coding-skills{
+    position: relative;
+    font-size: 2vmin;
+    top:10px;
+    align-self: center;
+}
+.badge{
+    margin: auto;
+    width: 60%;
+    height: 60%;
+}
+.links{
+    margin: auto;
+    width: 80%;
+    height: 50%;
 }
 .education{
     background-color: white;
     position: relative;
-    height: 110vh;
+    height: 100vh;
+}
+.education-title{
+    text-align: center;
+    position: relative;
+    top:10%;
 }
 .army{
     background-color:rgb(36, 196, 196);
     position: relative;
-    height: 110vh;
+    height: 100vh;
 }
+.army-photos{
+    position: relative;
+    top:30px;
+    left:35%;
+    width: 30%;
+    height: 100%;
+}
+.leadership{
+    position: relative;
+    font-style: bold;
+    align-self:center;
+    bottom: 150px;
+}
+
+

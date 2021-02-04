@@ -106,7 +106,7 @@ function Home (){
                         </div>
                         <div>
                             <img src={image2} alt="Army Intern - TX"/>
-                            <p className="legend">Army Intern - TX</p>
+                            <p className="legend">Army Engineer Intern - TX</p>
                         </div>
                         <div>
                             <img src={image3} alt="Mentorship of new cadets"/>

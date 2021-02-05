@@ -49,6 +49,7 @@ p{
 .skill-title{
     font-size: 3vmin;
     font-style: bold;
+    text-decoration: underline;
 }
 .coding-skills{
     position: relative;

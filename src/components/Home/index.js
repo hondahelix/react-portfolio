@@ -32,17 +32,16 @@ function Home (){
                 <div>
                     <h3 data-aos="flip-up"className="center-align" >Jonathan Honda</h3>
                     <p data-aos="fade-right">
-                        My name is Jonathan Honda, and I am A FullStack web developer. I have completed a coding Bootcamp from the University of California, Berkeley. 
-                        I graduated with an overall grade of an A. 
+                    Full Stack Web Developer with a background in Criminology as well as 4+ years of experience with the Army’s customs and
+                    courtesies through ROTC and holds an active secret clearance . Recently earned a Certificate in Full Stack web Development
+                    from the University of California, Berkeley. Effective at combining resilience with problem solving to create dynamic web
+                    applications.
                     </p>
                     <p data-aos="fade-left">
-                        I am originally from San Diego, California, and I have graduated this year from the University of California, Irvine, with a BA in Criminology Law and Society.
+                        I am originally from San Diego, California, and I have graduated from the University of California, Irvine.
                         Go Anteaters Zot Zot Zot!!! However, I now live in Northern California. 
                     </p>
                     <p data-aos="fade-right">
-                        I am actively searching for work as a web developer, and I look forward to honing and strengthen my coding skills.
-                    </p>
-                    <p data-aos="fade-left">
                         Another exciting thing about me is that I was in the ROTC program all four years in college and have commissioned as a second lieutenant in the Army National Guard.
                         On the weekends, I serve as a Network Officer at the Division Signal Company at Joint Forces Training Base in Los Alamitos. 
                     </p>
